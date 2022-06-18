@@ -1,0 +1,8 @@
+{
+    "usedDMs": "false",
+    "UsedDevs": "true",
+    "Name": "Debug",
+    "Usage": "Gets info from a guild/server",
+    "Example": "!debug",
+    "Type": "Dev"
+}
